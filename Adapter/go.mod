@@ -1,0 +1,3 @@
+module Adapter
+
+go 1.21.1
